@@ -1,0 +1,118 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491135810868@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC62E5EA41ADD9F750F',
+    participant: undefined
+  },
+  messageTimestamp: 1702573042,
+  pushName: 'Patricio',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491135810868'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_397757c7-3ab4-49a9-b50f-892a091a09c1',
+  keyword: 'key_005b222d-14f2-4dd9-8ee6-df4f05c43c5a',
+  answer: 'Hola, bienvenido! *Frig.Panero*🐄 \n' +
+    'Mi nombre es "_nombredtubot_" ¿Cómo puedo ayudarte el día de hoy?\n' +
+    '🛒 *Realizar pedido*\n' +
+    '📋 *Ver lista de precios*\n' +
+    '👤 *Solicitar asistencia*.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4c1faccbfddb79b67fb5679d817bf46a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491135810868@s.whatsapp.net',
+    fromMe: false,
+    id: '3AECB71307BBFA4633E0',
+    participant: undefined
+  },
+  messageTimestamp: 1702573049,
+  pushName: 'Patricio',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ver lista de precios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ver lista de precios',
+  from: '5491135810868'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_038cd9fa-769c-4fef-959e-9f4133df7cf2',
+  keyword: 'key_db38ac2f-f261-4b8a-930d-1e689c9cbe3e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b3f9d0624c8cddee48ab6620a15088e0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491135810868@s.whatsapp.net',
+    fromMe: false,
+    id: '3A58B0FBE93BF28D33D2',
+    participant: undefined
+  },
+  messageTimestamp: 1702573065,
+  pushName: 'Patricio',
+  broadcast: false,
+  message: Message {
+    conversation: 'Necesito ayuda',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Necesito ayuda',
+  from: '5491135810868'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_038cd9fa-769c-4fef-959e-9f4133df7cf2',
+  keyword: 'key_db38ac2f-f261-4b8a-930d-1e689c9cbe3e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b3f9d0624c8cddee48ab6620a15088e0'
+}
